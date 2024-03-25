@@ -1,7 +1,7 @@
 
 
 ### Hi Everyone 
-I'm Gaurav Junior\-!
+I'm Gaurav Junior\-
 
 
 - 🔭 **I’m currently working on a full-stack Developer**
