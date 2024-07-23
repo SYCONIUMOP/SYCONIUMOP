@@ -8,7 +8,7 @@ I'm Gaurav Junior\-
 - 🌱 **I’m currently learning Three.Js, WebGL**
 - 🤔 **I’m looking for help with**
 - 💬 **You Ask me about Three.js TheaterJs**
-- 📫 **You can reach me: on Instagram/-->js_with_gauravjunior**
+- 📫 **You can reach me: on Instagram/-->gaurav_junior_code**
 
   ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]( js_with_gauravjunior) 
